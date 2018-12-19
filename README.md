@@ -1,5 +1,5 @@
 # Action-Classification-using-RNN
-Using different versions of Recurrent neural networks (RNNs) such as LSTM (Long Short Term Memory) to classify human actions.  
+Using different versions of Recurrent neural networks (RNNs) such as LSTM (Long Short Term Memory) to classify human actions.  LSTMs are a special kind of RNN, capable of learning long-term dependencies.
 
 ## Dataset details:
 
